@@ -32,5 +32,5 @@
 
 ## Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrejuniorc&show_icons=true&theme=dracula)]
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanconsalter&layout=compact&langs_count=7&theme=dracula)](https://github.com/ivanconsalter/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrejuniorc&show_icons=true&theme=algolia)](https://github.com/alexandrejuniorc/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejuniorc&layout=compact&langs_count=7&theme=algolia)](https://github.com/ivanconsalter/github-readme-stats)
