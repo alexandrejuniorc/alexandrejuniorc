@@ -1,24 +1,24 @@
-### 👋 Hi, i'm Alexandre
+### 👋 Oi, eu sou Alexandre
 
-### 🎉 Welcome to my Github profile
+### 🎉 Bem-vindo ao meu perfil no Github
 
 <br>
 
-## About
+## Sobre
 
 <p>
-    Front-end developer since 2021.<br>
-    I study front-end and ui/ux development and am looking for an opportunity in the area, where I can apply my knowledge and skills for continuous improvement.
-</p>
+    Desenvolvedor front-end desde 2021.<br>
+    Estudo desenvolvimento front-end e ui/ux e estou em busca de uma oportunidade na área, onde possa aplicar meus conhecimentos e habilidades para melhoria contínua.</p>
 
-## Study
+## Formação
 
 <p>
- 📕 Computer technician at the Federal Institute of Minas Gerais, Brazil.<br>
- 📕 Front-end developer by Origamid.
+ 📕 Tecnologia da Informação pelo Instituto Federal de Minas Gerais, Brasil.<br>
+ 📕 Desenvolvedor front-end pela Origamid.
+ 📕 Desenvolvedor fullstack pela Newtab Academy.  
 </p>
 
-## Skills
+## Habilidades
 
 <div>
   <br>
