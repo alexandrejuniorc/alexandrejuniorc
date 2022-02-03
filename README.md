@@ -2,8 +2,6 @@
 
 ### 🎉 Bem-vindo ao meu perfil no Github
 
-<br>
-
 ## Sobre
 
 <p>
