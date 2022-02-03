@@ -14,7 +14,7 @@
 
 <p>
  📕 Tecnologia da Informação pelo Instituto Federal de Minas Gerais, Brasil.<br>
- 📕 Desenvolvedor front-end pela Origamid.
+ 📕 Desenvolvedor front-end pela Origamid.<br>
  📕 Desenvolvedor fullstack pela Newtab Academy.  
 </p>
 
