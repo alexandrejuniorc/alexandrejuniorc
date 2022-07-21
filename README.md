@@ -1,7 +1,8 @@
 <h1>👋 &nbsp;Olá, eu sou o Alexandre, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-
-
+<a href="https://www.instagram.com/alexandrejuniorc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:alexandrejunior408@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alexandrejuniorc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre </h2>
