@@ -10,10 +10,10 @@
 
 <h2> 👨🏻‍💻 &nbsp;Sobre </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 11 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Transformice. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, crio conteúdo para o Instagram (@dicasparadevs) e para o YouTube. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Fórmula 1, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- 👨🏻‍💻 &nbsp; Sou um apaixonado pela tecnologia desde os meus 6 anos quando comecei apenas jogando e logo em meados dos meus 13 anos comecei a fazer hacking, mas, é uma área um pouco perigosa para se manter rsrs. Agora maior de idade parti para o desenvolvimento fullstack, porém sou mais familiarizado com o front-end.
+- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, ajudo pessoas pelo discord, ou até mesmo em grupos que pessoas ja tiveram a mesma dúvida que eu e depois de ter passado por essa dificuldade agora consigo ajudar. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e futuramente mobile. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes.
+- 🏎 &nbsp; Sou apaixonado por games e esportes, especialmente por Crossfit, e divido minha vida como dev e atleta. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
 - 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
@@ -34,4 +34,8 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+<div align="center">
+   <a href="https://github.com/alexandrejuniorc">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrejuniorc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejuniorc&layout=compact&langs_count=7&theme=react"/>
+ </div>
