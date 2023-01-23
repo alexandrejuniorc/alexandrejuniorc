@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Igor">
 
 <p align="left"> 
-  Hello, my name is <strong>Igor da Silva</strong> and I have a degree in computer science and I study web development, I'm studying in Rocketseat's full-stack    development training course.
+Hello, my name is <strong>Alexandre Junior</strong> and I'm studying systems analysis and development, I already work as a frontend and I'm also joining the backend area
 </p>
 
 <p align="left">
