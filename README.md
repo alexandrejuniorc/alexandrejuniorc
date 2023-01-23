@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=your-IgorSilvaMedeiros&style=flat-square" align="left">
+<img src="https://komarev.com/ghpvc/?username=your-alexandrejuniorc&style=flat-square" align="left">
 <h1 align="center">
   <b>Welcome</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
