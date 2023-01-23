@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=your-IgorSilvaMedeiros&style=flat-square" align="left">
 <h1 align="center">
-  <b>Welcome to my profile!!! </b>
+  <b>Welcome</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
 </br>
@@ -47,15 +47,15 @@ Hello, my name is <strong>Alexandre Junior</strong> and I'm studying systems ana
 
 <p align="center">
 
-| <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=IgorSilvaMedeiros&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues">      | <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSilvaMedeiros&layout=compact&hide_border=true&theme=transparent"> |
+| <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=alexandrejuniorc&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues">      | <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejuniorc&layout=compact&hide_border=true&theme=transparent"> |
 | ----------- | ----------- |
   
 <p align="left">
     💌 If you want to see more of my work or get in touch, follow my networks: ⤵️
   <p>
-    <a href="mailto:igoratendimento@outlook.com.br">
+    <a href="mailto:alexandrejunior408@gmail.com">
       <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"></a>
-    <a href="https://www.linkedin.com/in/igor-da-silva-medeiros/">
+    <a href="https://www.linkedin.com/in/alexandrejuniorc/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
    </p>
 </p>  
