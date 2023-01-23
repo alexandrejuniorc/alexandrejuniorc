@@ -1,38 +1,61 @@
-<h1>👋 &nbsp;Olá, eu sou o Alexandre, um desenvolvedor full stack apaixonado pelo que faz!</h1>
-<p align="center">
-<a href="https://www.instagram.com/alexandrejuniorc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:alexandrejunior408@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/alexandrejuniorc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img src="https://komarev.com/ghpvc/?username=your-IgorSilvaMedeiros&style=flat-square" align="left">
+<h1 align="center">
+  <b>Welcome to my profile!!! </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  
+</br>
+
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Igor">
+
+<p align="left"> 
+  Hello, my name is <strong>Igor da Silva</strong> and I have a degree in computer science and I study web development, I'm studying in Rocketseat's full-stack    development training course.
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre </h2>
+<p align="left">
+  🤖 Skills:
+  <p align="left"> 
+   
+* Languages:
+    
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    
+* Front-End Development:    
+    
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    
+* Back-End Development:    
+    
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  </p>
+</p>
 
-- 👨🏻‍💻 &nbsp; Sou um apaixonado pela tecnologia desde os meus 6 anos quando comecei apenas jogando e logo em meados dos meus 13 anos comecei a fazer hacking, mas, é uma área um pouco perigosa para se manter rsrs. Agora maior de idade parti para o desenvolvimento fullstack, porém sou mais familiarizado com o front-end.
-- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, ajudo pessoas pelo discord, ou até mesmo em grupos que pessoas ja tiveram a mesma dúvida que eu e depois de ter passado por essa dificuldade agora consigo ajudar. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e futuramente mobile. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes.
-- 🏋️‍♀️ &nbsp; Sou apaixonado por games e esportes, especialmente por Crossfit, e divido minha vida como dev e atleta. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+<p align="left">
+  💼 Tools: 
+  <p align="left">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </p>
+</p>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+</br>
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+<p align="center">
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-<div align="center">
-   <a href="https://github.com/alexandrejuniorc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrejuniorc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejuniorc&layout=compact&langs_count=7&theme=react"/>
- </div>
+| <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=IgorSilvaMedeiros&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues">      | <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSilvaMedeiros&layout=compact&hide_border=true&theme=transparent"> |
+| ----------- | ----------- |
+  
+<p align="left">
+    💌 If you want to see more of my work or get in touch, follow my networks: ⤵️
+  <p>
+    <a href="mailto:igoratendimento@outlook.com.br">
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"></a>
+    <a href="https://www.linkedin.com/in/igor-da-silva-medeiros/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+   </p>
+</p>  
