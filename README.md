@@ -1,8 +1,8 @@
 ## Hi there I'm Alexandre Junior
-### I'm a Front-end Engineer based in Brazil
+### I'm a Fullstack Engineer based in Brazil
 
 - 🏢 I'm currently working at **[Lab2dev](https://www.lab2dev.com/).**
-- ⚙️ I use daily: `.jsx | .tsx`, `.js | .ts`, `.css | tailwindcss`
+- ⚙️ I use daily: `.jsx | .tsx`, `.js | .ts`, `.css | tailwindcss`, `.java`
 - 🌍 I'm mostly active within the **JS Community**
 - ⚡️ Fun fact: I can't remember dates =P
 - 👨🏾‍🎓 I'm student of Software Engineering
