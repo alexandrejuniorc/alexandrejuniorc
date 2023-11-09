@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alexandre and I'm a Full Stack Engineer living in Brazil</p>
+<p align="left">My name is Alexandre and I'm a Full Stack Software Engineer living in Brazil</p>
 
 ###
 
