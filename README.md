@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Go and Software Architecture<br>🎯 Goals: To become a skilled Full Stack developer and contribute to solving real-world problems.<br>👨🏾‍🎓 I'm student of Software Engineering at Uninter<br>🎲 Fun fact: The solutions to problems always come in my dreams or when I'm doing something unusual</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Go and Software Architecture<br>🎯 Goals: To become a skilled Full Stack developer and contribute to solving real-world problems.<br>👨🏾‍🎓 I'm student of Software Engineering at Anhanguera<br>🎲 Fun fact: The solutions to problems always come in my dreams or when I'm doing something unusual</p>
 
 ###
 
