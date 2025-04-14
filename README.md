@@ -18,4 +18,4 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,next,angular,nodejs,express,python,java,go,docker,aws,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,next,nodejs,express,go,docker,aws,mongodb,postgresql)](https://skillicons.dev)
